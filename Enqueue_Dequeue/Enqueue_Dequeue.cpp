@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-constexpr auto MAX_SIZE = = 100;;
+constexpr auto MAX_SIZE = 100;;
 
 int queue[MAX_SIZE];
 int front = -1;
